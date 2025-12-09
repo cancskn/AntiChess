@@ -1,4 +1,4 @@
-# Antichess Engine
+# Antichess
 
 Antichess, also known as Losing Chess or Suicide Chess, is a popular variant of regular chess that reverses the usual goals. In this game, the goal is to lose all of
 your pieces or reach a stalemate. Unlike standard chess, capturing is mandatory when possible, and strategies revolve around self-sacrifice and forced exchanges.
